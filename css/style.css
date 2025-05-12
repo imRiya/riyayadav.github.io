@@ -859,8 +859,7 @@ a:focus {
 }
 
 .review .review-text p {
-    font-size: 18px;
-    font-style: italic;
+    font-size: 18px;;
 }
 
 .review .review-img {
